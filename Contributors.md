@@ -1,4 +1,5 @@
 # Contributors
+- [G Sudarshan](https://github.com/g-sudarshan)
 - [Enes Alper Balta](https://github.com/eabalta)
 - [sktht](https://github.com/sktht)
 - [Sergey Kabanov](https://github.com/kabser)
